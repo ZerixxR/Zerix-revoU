@@ -1,0 +1,51 @@
+.tab1 {
+
+border: 5px solid rgb(255, 184, 184);
+display: flex;
+justify-content: flex-start;
+}
+
+.tab1 > div {
+
+padding: 10px;
+text-align: center;
+font-size: 14px;
+color: rgb(255, 255, 255);
+border: 2px solid;
+background-color: rgb(0, 0, 0);
+}
+
+
+.tab2 {
+
+display: flex;
+justify-content: center;
+}
+
+.tab2 > div {
+
+padding: 10px;
+text-align: center;
+font-size: 14px;
+color: rgb(255, 255, 255);
+border: 2px solid;
+background-color: rgb(0, 0, 0);
+}
+
+
+.tab3 {
+
+display: flex;
+justify-content: flex-end;
+}
+
+.tab3 > div {
+
+padding: 10px;
+text-align: center;
+font-size: 14px;
+color: rgb(255, 255, 255);
+border: 2px solid;
+background-color: rgb(0, 0, 0);
+}
+
